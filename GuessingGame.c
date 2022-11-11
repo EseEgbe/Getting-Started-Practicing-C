@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
+
 int main(void)
 {
 	// Generate random number between 0 - 10
