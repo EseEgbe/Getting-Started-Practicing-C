@@ -13,4 +13,4 @@ All of the following files are programs written in C:
 | Filename | Description |
 | -------- | ----------- |
 | [`GuessingGame.c`](GuessingGame.c) | Program that allows a user to `guess a number` |
-| `RightTriangle.c` | Program that calculates the `hypotenus` of a right triangle |
+| [`RightTriangle.c`](RightTriangle.c) | Program that calculates the `hypotenus` of a right triangle |
