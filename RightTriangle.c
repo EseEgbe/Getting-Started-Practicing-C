@@ -1,21 +1,14 @@
 #include <stdio.h>
 #include <math.h>
 
-/**
- * main - Entry point.
- * 
- * Description: Program that calculates the hypotenus
- *				of a right triangle.
- * 
- * Return: Always 0 (Success).
-*/
 
 int main(void)
 {
+	printf("This app will calculate the hypotenus of a right triangle.\n");
+	
+	// Declaration for triangle lengths
 	double a;
 	double b;
-
-	printf("This app will calculate the hypotenus of a right triangle.\n");
 
 	// Get the first length of triangle
 	printf("enter length 'a' of triangle: ");
